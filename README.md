@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"> </div>
 <h1 align="center">Hi 👋, I'm Pasindu Peiris</h1>
 <h3 align="center">Frontend Web Developer</h3>
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 
 
 <p align="left"> <a href="https://twitter.com/pasindupeiris" target="blank"><img src="https://img.shields.io/twitter/follow/pasindupeiris?logo=twitter&style=for-the-badge" alt="pasindupeiris" /></a> </p>

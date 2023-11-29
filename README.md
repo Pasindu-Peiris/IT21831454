@@ -22,8 +22,12 @@
 # Hey Stranger! 👾
 ### **I'm Pasindu Peiris** - I'm a full stack web developer, designer and I'm an undergraduate student at SLIIT. I'm interested in learning new web development technology, I'm currently working on MERN Stack projects
 
-<br/>
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dmmi0beky8x3tssrl54k612hb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+<br/>
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,sass,tailwind,jquery,react,vite,nextjs,angular,nodejs,express,ts,mongodb,firebase,wordpress,postman,c,cpp,java,python,kotlin,r,git,netlify,figma, )](https://skillicons.dev)
 

@@ -25,7 +25,7 @@
 <br/>
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,sass,tailwind,jquery,react,vite,nextjs,angular,nodejs,ts,mongodb,firebase,wordpress,postman,c,cpp,java,python,kotlin,r,git,netlify )](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,sass,tailwind,jquery,react,vite,nextjs,angular,nodejs,ts,mongodb,firebase,wordpress,postman,c,cpp,java,python,kotlin,r,git,netlify,figma, )](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,ps,codepen,)](https://skillicons.dev)
 
